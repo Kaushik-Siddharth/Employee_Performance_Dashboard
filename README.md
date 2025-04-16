@@ -23,6 +23,14 @@ This project presents an interactive dashboard that analyzes employee performanc
 - **Excel**
 - **Data Cleaning & Pivot Tables**
 - **HR Analytics Concepts**
+- **Figma**
+
+## 🎨 Figma Design
+
+A custom background and layout were designed in Figma to enhance the dashboard’s visual appeal and user experience.
+
+> Figma adds a layer of UI/UX polish to the dashboard for better presentation.
+
 
 ## 🚀 Live Dashboard
 
