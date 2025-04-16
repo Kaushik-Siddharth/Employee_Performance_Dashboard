@@ -14,6 +14,7 @@ This project presents an interactive dashboard that analyzes employee performanc
 
 - `cleaned_employee_data.xlsx` – Preprocessed HR data used for visualization
 - `dashboard.twb` – Tableau workbook file
+- `dashboard_background.png` - Figma design background image 
 - `dashboard_preview.png` – Preview of the final dashboard
 - `README.md` – Project overview and documentation
 
