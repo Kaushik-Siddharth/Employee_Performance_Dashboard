@@ -26,7 +26,7 @@ This project presents an interactive dashboard that analyzes employee performanc
 
 ## 🚀 Live Dashboard
 
-Check out the live version hosted on [Tableau Public]https://public.tableau.com/views/Book1_17447141300280/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Check out the live version hosted on [Tableau Public](https://public.tableau.com/views/Book1_17447141300280/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Tags
 
